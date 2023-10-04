@@ -1,0 +1,122 @@
+* {
+    font-family: Plus Jakarta Sans;
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    margin: 0 auto;
+    width: 813px;
+    height: 151px;
+}
+
+button {
+    background-color: #00A91B;
+    color: #fff;
+    padding: 18px 67px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: plus jakarta sans;
+}
+
+button:hover {
+    background-color: #00530e;
+}
+
+Header {
+    padding-top: 30px;
+    background: url(./img/HaileyPeB.jpg);
+    background-size: cover;
+    width: 639px;
+    height: 408px;
+    margin: 0 auto;
+}
+
+.Hayley {
+    margin-left: auto;
+    padding-right: 28px;
+    justify-content: end;
+    display: block;
+}
+
+.Paramore {
+    margin-left: auto;
+    padding-right: 28px;
+    justify-content: end;
+    display: block;
+    margin-top: 10px;
+}
+
+.textoHeader {
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 13px;
+}
+
+.comprarAcao {
+    padding-top: 100px;
+    align-items: center;
+    padding-bottom: 50px;
+    margin-left: 180px;
+}
+
+.textoBanner {
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300px;
+    margin: 0 40px;
+}
+
+.Banner {
+    background-color: #fff;
+    margin: 0 auto;
+    padding-bottom: 64px;
+}
+
+.showSolo {
+    padding: 30px 0;
+    margin: 0 auto;
+    align-items: center;
+    display: block;
+}
+
+.Footer {
+    background-color: #B1B1B1;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+}
+
+.textoFooter {
+    font-weight: 700;
+    font-size: 14px;
+    padding: 18px 250px;
+}
+
+.redesSociais {
+    margin: 0 auto;
+    display: block;
+}
+
+.redeSocial {
+    padding: 10px;
+}
+
+.hr {
+    color: #000;
+}
+
+.textinhoFooter {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 18px 0;
+}
